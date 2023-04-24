@@ -1,3 +1,11 @@
+---
+title: Shell01
+tags: 42, piscine
+use: README, Documentation
+languages: shell
+dependences: NULL
+---
+
 # Shell01 Lista
 ## ex00
 ## ex01

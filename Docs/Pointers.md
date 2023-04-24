@@ -1,3 +1,11 @@
+---
+title: Pointers
+tags: studies
+use: Documentation
+languages: C
+dependences: NULL
+---
+
 # [**Ponteiros**](https://pt.wikipedia.org/wiki/Ponteiro_(programa%C3%A7%C3%A3o))
 são variáveis que armazenam endereços de memória em um programa. Um ponteiro pode ser utilizado para acessar o conteúdo da variável que está armazenada no endereço de memória apontado por ele, ou para modificar o conteúdo dessa variável.
 

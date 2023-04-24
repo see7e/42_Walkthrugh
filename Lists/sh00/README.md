@@ -1,4 +1,12 @@
-# Shell01 Lista
+---
+title: Shell00
+tags: 42, piscine
+use: README, Documentation
+languages: shell
+dependences: NULL
+---
+
+# Shell00 Lista
 ## ex00
 1.	logar na intranet no pc do avaliado ou no seu proprio
 2.	clicar em iniciar avaliacao
@@ -12,6 +20,7 @@
 o avaliado deve mandar sempre o feedback do avaliador!
 
 ## ex01
+```sh
 c1r10s4% cat > testShell00
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 c1r10s4% ls -l
@@ -40,8 +49,10 @@ total 16
 c1r10s4% ls
 testShell00.tar
 c1r10s4%
+```
 
 ## ex02
+```sh
 c1r10s4% pwd
 /nfs/homes/gabrodri/Documents/shell00/ex02
 c1r10s4% mkdir test0 test 2
@@ -117,8 +128,10 @@ exo2.tar  test0  test1    test2  test3  test4  test5  test6
 c1r10s4% ls
 exo2.tar
 c1r10s4%
+```
 
 ## ex03
+```sh
 c1r10s4% pwd
 /nfs/homes/gabrodri/Documents/shell00
 c1r10s4% mkdir ex03
@@ -135,19 +148,22 @@ c1r10s4% ls
 id_rsa    id_rsa.pub  known_hosts
 c1r10s4% cp id_rsa.pub /nfs/homes/gabrodri/Documents/shell00/ex03
 c1r10s4%
-
+```
 ===
 
+```sh
 c1r10s4% wpd
 zsh: command not found: wpd
 c1r10s4% pwd
 /nfs/homes/gabrodri/Documents/shell00/ex03
 c1r10s4% ls
 id_rsa_pub
+```
 
 ## ex04
 https://man7.org/linux/man-pages/man1/ls.1.html
 
+```sh
 c1r10s14% pwd
 /nfs/homes/gabrodri/Documents/shell00/ex04
 c1r10s14% echo "ls -npt" > midLS
@@ -155,16 +171,21 @@ c1r10s14% ls
 midLS
 c1r10s14%
 c1r10s14%
+```
 
 ## ex05
+```sh
 git status
 git add <file>
 git commit -m”mesage”
 git log
 git log --format='%H' -n5
+```
 
 ## ex06
 ## ex07
+
+```sh
 c1r11s4% pwd
 /nfs/homes/gabrodri/Documents/shell00/ex07
 c1r11s4% ls
@@ -198,9 +219,10 @@ $
 $
 $
 c1r11s4%
+```
 
 ## ex08
-
+```sh
 c1r11s4% pwd
 /nfs/homes/gabrodri/Documents/shell00/ex08
 c1r11s4% ls
@@ -219,15 +241,16 @@ c1r11s4% bash clean
 c1r11s4% ls -a
 .  ..  clean
 c1r11s4%
+```
 
 ## ex09
-c1r11s4% 
-
+```sh
+c1r11s4% cat > 42
 41 string 42 42 file
-
-—
+```
  
 pra testar arquivo
+```sh
 cat > teste
 0000000000000000000000000000000000000000042
 c1r14s2% vim ft_magic
@@ -247,4 +270,4 @@ c1r14s2% file -C -m ft_magic > ft_magic.mgc
 c1r14s2% file -m ft_magic teste
 teste: 42 file
 c1r14s2%
-
+```

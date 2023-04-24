@@ -1,3 +1,11 @@
+---
+title: 42_Piscine
+tags: 42, piscine
+use: README, Documentation
+languages: shell, C, Makefile
+dependences: NULL
+---
+
 # 42_Walkthrugh
 
 *(future eng translation)*
@@ -160,23 +168,23 @@ Avisos
 
 |__Listas__|__Percentual__|__X__|
 |-|-|-|
-|[Sh00](./Lists/sh00/)|100|✅|
-|[Sh01](./Lists/sh01/)|100|✅|
+|[Sh00](./Lists/sh00/README.md)|100|✅|
+|[Sh01](./Lists/sh01/README.md)|100|✅|
 ||||
-|[C00](./Lists/c00/)|100|✅|
-|[C01](./Lists/c01/)|100|✅|
-|[C02](./Lists/c02/)|75 |✅|
-|[C03](./Lists/c03/)|100|✅|
-|[C04](./Lists/c04/)|70 |✅|
-|[C05](./Lists/c05/)|80 |✅|
-|[C06](./Lists/c06/)|100|✅|
-|[C07](./Lists/c07/)|100|✅|
-|[C08](./Lists/c08/)|Not Rated|:x:|
-|[C09](./Lists/c09/)|Not Rated|:x:|
-|[C10](./Lists/c10/)|Not Rated|:x:|
-|[C11](./Lists/c11/)|Not Rated|:x:|
-|[C12](./Lists/c12/)|Not Rated|:x:|
-|[C13](./Lists/c13/)|Not Rated|:x:|
+|[C00](./Lists/c00/README.md)|100|✅|
+|[C01](./Lists/c01/README.md)|100|✅|
+|[C02](./Lists/c02/README.md)|75 |✅|
+|[C03](./Lists/c03/README.md)|100|✅|
+|[C04](./Lists/c04/README.md)|70 |✅|
+|[C05](./Lists/c05/README.md)|80 |✅|
+|[C06](./Lists/c06/README.md)|100|✅|
+|[C07](./Lists/c07/README.md)|100|✅|
+|C08|Not Rated|:x:|
+|C09|Not Rated|:x:|
+|C10|Not Rated|:x:|
+|C11|Not Rated|:x:|
+|C12|Not Rated|:x:|
+|C13|Not Rated|:x:|
 
 ### Stdheader
 A partir das listas em C, é necessário para validação dos exercícios de cada aluno o cabeçalho no topo de cada exercício, que pode ser inserido através do `Vim` de duas formas:
@@ -215,14 +223,14 @@ Para o BSQ, os times são de duas pessoas e podem ser escolhidos pelos alunos, o
 
 |__Exames__|__#__|__#__|
 |-|-|-|
-|[Exam00]()|-|-|
-|[Exam01]()|-|-|
-|[Exam02]()|-|-|
-|[Exam03]()|-|-|
-|[Rush00]()|-|-|
-|[Rush01]()|-|-|
-|[Rush02]()|-|-|
-|[BSQ](./Lists/BSQ/)|Erro de Norma|:x:|
+|Exam00|-|-|
+|Exam01|-|-|
+|Exam02|-|-|
+|Exam03|-|-|
+|Rush00|-|-|
+|Rush01|-|-|
+|Rush02|-|-|
+|[BSQ](./Lists/BSQ/README.md)|Erro de Norma|:x:|
 
 
 #### BONUS

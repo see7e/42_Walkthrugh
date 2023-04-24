@@ -1,3 +1,11 @@
+---
+title: C02
+tags: 42, piscine
+use: README, Documentation
+languages: C
+dependences: NULL
+---
+
 # C02
 ## ex00
 ## ex01

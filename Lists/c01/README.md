@@ -1,3 +1,11 @@
+---
+title: C01
+tags: 42, piscine
+use: README, Documentation
+languages: C
+dependences: NULL
+---
+
 # C01
 ## ex00
 Este código em C é um exemplo de como utilizar [ponteiros](../../Docs/Pointers.md) e uma função para modificar o valor de uma variável.

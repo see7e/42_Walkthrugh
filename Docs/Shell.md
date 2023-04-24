@@ -1,3 +1,11 @@
+---
+title: Shell
+tags: studies
+use: Documentation
+languages: Shell
+dependences: NULL
+---
+
 # Shell
 ## Comandos shell
   > Autor: Luciano Hugo
