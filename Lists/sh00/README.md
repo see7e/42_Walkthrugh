@@ -1,6 +1,6 @@
 ---
 title: Shell00
-tags: 42, piscine
+tags: 42, piscine, programação
 use: README, Documentation
 languages: shell
 dependences: NULL

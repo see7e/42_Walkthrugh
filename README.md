@@ -1,6 +1,6 @@
 ---
 title: 42_Piscine
-tags: 42, piscine
+tags: 42, piscine, programação
 use: README, Documentation
 languages: shell, C, Makefile
 dependences: NULL
@@ -15,8 +15,8 @@ da *42 (Porto)*.
 
 ---
 
-|*|**Í N D I C E**
-|-  |-|
+|*|**Í N D I C E**|
+|- |-|
 |i  |[História](#i-História)|
 |ii |[Dinâmica](#ii-Dinâmica)|
 |iii|[Listas](#iii-listas)|

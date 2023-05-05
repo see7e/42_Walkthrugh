@@ -1,6 +1,6 @@
 ---
 title: C01
-tags: 42, piscine
+tags: 42, piscine, programação
 use: README, Documentation
 languages: C
 dependences: NULL
@@ -8,7 +8,7 @@ dependences: NULL
 
 # C01
 ## ex00
-Este código em C é um exemplo de como utilizar [ponteiros](../../Docs/Pointers.md) e uma função para modificar o valor de uma variável.
+Este código em C é um exemplo de como utilizar [ponteiros](../../../../C/Pointers.md) e uma função para modificar o valor de uma variável.
 
 A função `ft_ft` recebe um ponteiro para um inteiro como argumento e atribui o valor `42` ao inteiro apontado por este ponteiro. Isso é feito na linha 3, onde o conteúdo do endereço de memória apontado por nbr é modificado para o valor `42`.
 
