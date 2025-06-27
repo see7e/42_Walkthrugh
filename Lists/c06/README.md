@@ -1,9 +1,12 @@
 ---
 title: C06
-tags: 42, piscine, programação
+tags:
+  - "42"
+  - piscine
+  - programming
 use: README, Documentation
 languages: C
-dependences: NULL
+dependences:
 ---
 
 # C06

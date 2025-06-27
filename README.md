@@ -1,9 +1,12 @@
 ---
 title: 42_Piscine
-tags: 42, piscine, programação
+tags:
+  - "42"
+  - piscine
+  - programming
 use: README, Documentation
 languages: shell, C, Makefile
-dependences: NULL
+dependences:
 ---
 
 # 42_Walkthrugh

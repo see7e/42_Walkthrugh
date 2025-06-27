@@ -1,9 +1,12 @@
 ---
 title: C00
-tags: 42, piscine, programação
+tags:
+  - "42"
+  - piscine
+  - programming
 use: README, Documentation
 languages: C
-dependences: NULL
+dependences:
 ---
 
 # c00

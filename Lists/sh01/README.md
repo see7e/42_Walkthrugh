@@ -1,9 +1,12 @@
 ---
 title: Shell01
-tags: 42, piscine
+tags:
+  - "42"
+  - piscine
+  - programming
 use: README, Documentation
 languages: shell
-dependences: NULL
+dependences:
 ---
 
 # Shell01 Lista
